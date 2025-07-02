@@ -279,13 +279,4 @@ import kotlin.math.PI
 * Collections: `List`, `Map`, `Set`
 * Kotlin is concise, null-safe, and interoperable with Java.
 
----
 
-Happy coding! 🚀
-
-```
-
----
-
-Let me know if you want a downloadable version or a PDF of this!
-```
