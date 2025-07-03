@@ -83,5 +83,3 @@ By applying Clean Architecture principles in Android, we ensure that our apps ar
 
 ---
 
-### 📎 Tags
-`#CleanArchitecture` `#AndroidDevelopment` `#MVVM` `#Kotlin` `#SoftwareDesign` `#SystemArchitecture`
